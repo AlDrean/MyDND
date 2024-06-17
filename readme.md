@@ -1,21 +1,19 @@
-# DND
-Nice to meet ya! this repositore will be used so i can do my stuff on DND.
+# D&D Repository
 
-i will add my homebrews, my dnd related problems and some more stuff;
+Welcome! This repository is dedicated to my Dungeons & Dragons (D&D) endeavors. Here, you'll find my homebrews, character details, lore tests, and various D&D-related projects. I'm currently focused on 5th Edition (5e) rules and mechanics.
 
-some infos about my chars, some tests on lore ant etc will be centered here. Maybe you can bring your self to like them, maybe not. 
+## Current Projects
 
-As for now, i'm based on 5ed 
+### Paladin Homebrew
+**Objective:** Transform the Paladin class from a damage-dealer using Divine Smite into a control-type tank.
+- **To Do:**
+  - Document the idea behind why and how I want to change the Paladin.
+  - Rewrite the README file since setting up this git overwrote the original.
+  - Perform calculations (using programs) on damage and other mechanics.
 
+### Rurholl
+**Objective:** Develop lore and background stories for Rurholl and his companions.
+- **To Do:**
+  - Continue playing Rurholl and documenting bits of lore about him and his friends.
 
-# Current Projects 
--> Paladin Homebrew - Changing power from divine smite to a control type tank  
--- Have the Idea written to why and how i want to change the paladin
--- Write read me again, as setting up this git have kind of killed it (writen over the file)
--- Do some calculations ( hehehhe programs) on damage and etc
-
--> Rurholl
--- As i am playing him, i'm trying to write bits of lore about him and his friends;
-
-
-
+Feel free to explore and enjoy the content! Any feedback or suggestions are always welcome.
