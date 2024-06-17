@@ -59,6 +59,27 @@ To ensure that the auras scale effectively with the Paladin's growth, modify the
 #### Notes
 These changes aim to emphasize the Paladin's role as a leader and protector, making their auras a core aspect of their gameplay identity and strategy. Further adjustments may be required based on playtest results.
 
+## Smite Changes
+
+### The Smite for CHAR( char +3 or more)
+- **Context:** Change the way smites work so i can increase the usability and nerf the overall damage; There is a Smites_CHAR.md files with the smites changes. This way we can use the controll aspect of the smites, without relying on the divine smite 
+- **Proposed Modification:** Instead of multiatack, on lvl 5 you aways atack with a smite ( lore based). You get to add your charisma modifier to the atack roll; 
+- **Proposed Modification:** 1 aditional slot of concentration; upkeep cost: moviment and bonus action - can be droped anytime
+- **Proposed Modification:** aura changes
+- **Proposed Modification:** upcasts focus on ramp up in utility and not in damage (?)
+- **To Do:**
+  - **Playtest:** test usage
+
+
+### The Smite for STR( STR +3 or more)
+- **Context:** Change the way smites work so i can increase the usability and nerf the overall damage; There is a Smites_str.md files with the smites changes. This way we can use the controll aspect of the smites, without relying on the divine smite 
+- **Proposed Modification:**  Instead of multiatack, on lvl 5 you aways atack with a smite ( lore based).  The smite speels have a upcast of +2  
+- **Proposed Modification:**  same auras as it is now
+- **To Do:**
+  - **Playtest:** test usage
+
+#### Notes
+- Either you chose 1 or other route for smites; 
 
 ## Further Development
 This document will continue to evolve as new ideas are tested and feedback is received. Future updates may include more detailed descriptions of new abilities, modifications to existing features, and comprehensive balancing notes.
