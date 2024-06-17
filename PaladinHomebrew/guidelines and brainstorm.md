@@ -27,7 +27,7 @@ The objective of this homebrew is to transform the Paladin class from a primary 
 
 ### Class feature: Protect formation (UA)
 - **Context:** As for now, the Paladin should have"Hold The line" oriented playstile. As for now, it only goes headfirst to smite and delete a foe. This will be aimed to change it to allow to muster the Sentinel feat;
-- **Description:** As a bonus action, enter a defensive stance that lasts until the start of your next turn. While in this stance, make opportunity attacks without using your reaction, and react to creatures moving more than 5 feet within your reach with a melee attack.
+- **Description:** As a bonus action, enter a defensive stance that lasts until the start of your next turn. While in this stance, make opportunity attacks without using your reaction
 - **Proposed Modification:** Consider adding effects like bonus AC or disadvantage on attacks against allies when you are ready to defend. 
 - **To Do:**
   - **Test Impact:** Evaluate how adding AC or imposing disadvantage affects gameplay balance, especially in conjunction with abilities like Sentinel. 
