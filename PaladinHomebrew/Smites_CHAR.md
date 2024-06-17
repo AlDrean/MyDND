@@ -1,7 +1,8 @@
 
+-- not ready 
 [Searing] 
-The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d10 + 1d6 fire damage to the target and causes the target to ignite in flames causing 1 damage por 2 turns
- 
+The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames causing 2d4 damage  per turn
+
 [Thunderous]
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 1d10 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 

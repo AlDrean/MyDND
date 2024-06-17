@@ -1,4 +1,5 @@
 
+-- not ready
 [Searing] 
 The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d10 + 1d6 fire damage to the target and causes the target to ignite in flames causing 1 damage por 2 turns
  
