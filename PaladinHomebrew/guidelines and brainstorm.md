@@ -25,6 +25,12 @@ The objective of this homebrew is to transform the Paladin class from a primary 
 - **To Do:**
   - **Talk with more paladins players** 
 
+### Change divine smite
+- **Context:** As we are changing power from the divine smite and the lore justifying its power, i want to make a mechanical change to improve tematically the use of divine smite; this way i can increase the power and create more epic moments;
+- **Proposed Modification:** Either make its calling conditional to be against your oath or difficulty, or be used on channel divinity  
+- **To Do:** playtest
+  - **Talk with more paladins players** It sounds like a good change, but it also takes away the 'ITS AN AMAZING MOMENT TO CRITICAL SMITE AT LVL 5'
+
 ### Class feature: Protect formation (UA)
 - **Context:** As for now, the Paladin should have"Hold The line" oriented playstile. As for now, it only goes headfirst to smite and delete a foe. This will be aimed to change it to allow to muster the Sentinel feat;
 - **Description:** As a bonus action, enter a defensive stance that lasts until the start of your next turn. While in this stance, make opportunity attacks without using your reaction
