@@ -1,0 +1,14 @@
+Character,Attack Bonus,Enemy AC,Damage Dice,Bonus Damage,Critical Hit Chance,Critical Bonus Damage
+DamagePaladinSmite,+7,15,1d8+2d8,+5,0.05,+10
+DamagePaladinSmite,+7,15,1d8+2d8,+5,0.05,+10
+DamagePaladin,+7,15,1d8,+5,0.05,+10
+DamagePaladin,+7,15,1d8,+5,0.05,+10
+CharPaladin,+2,15,1d8,+3,0.05,+10
+CharPaladin,+2,15,1d8,+3,0.05,+10
+CharPaladinSmite,+2,15,1d8+2d8,+3,0.05,+10
+CharPaladinSmite,+2,15,1d8+2d8,+3,0.05,+10
+RuhRoll,+5,15,1d8,+3,0.05,+10
+RuhRoll,+5,15,1d8,+3,0.05,+10
+RuhRoll_homebrew,+10,15,1d8 + 2d6,+3,0.05,+10
+RuhRoll_homebrewSmite,+10,15,1d8 + 2d6 + 2d8,+3,0.05,+10
+Ladino,+7,15,1d4+3d6,+5,0.05,+10
