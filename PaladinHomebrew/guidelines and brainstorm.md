@@ -38,6 +38,7 @@ The objective of this homebrew is to transform the Paladin class from a primary 
 - **Description:** Introduce "Aura of Protection" at level 1 to signify the Paladin's inspiring presence through sheer willpower, providing immediate and scaling benefits to nearby allies.
 
 #### Proposed Modifications
+- **Early Oath Auras:** will be dealt in another topic
 - **Early Access to Auras:** Introduce a level 1 aura that provides benefits based on the Paladin's Charisma modifier.
   - **Temporary Health Aura:** Grant temporary health equal to 1d2 plus Charisma modifier (minimum of 3) to allies within the aura.
   - **Damage Reduction Aura:** Provide a damage reduction of 1d2, which increases to 1d4 if the Paladin's Charisma modifier is 3 or more.
