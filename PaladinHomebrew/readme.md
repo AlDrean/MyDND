@@ -45,7 +45,7 @@ The objective of this homebrew is to transform the Paladin class from a primary 
 
 #### Proposed Modifications
 - **Early Oath Auras:** will be dealt in another topic
-- **Early Access to Auras:** Introduce a level 1 aura that provides benefits based on the Paladin's Charisma modifier.
+- **Early Access to Auras:** Introduce a level 1 aura that provides benefits based on the Paladin's Charisma modifier. Each effect works to beings being in the start of the turn there;
   - **Temporary Health Aura:** Grant temporary health equal to 1d2 plus Charisma modifier (minimum of 3) to allies within the aura.
   - **Damage Reduction Aura:** Provide a damage reduction of 1d2, which increases to 1d4 if the Paladin's Charisma modifier is 3 or more.
   - **Bonus to Tests:** Offer a 1d2 bonus to attack rolls or skill checks within the aura, a lesser blessing
@@ -53,18 +53,19 @@ The objective of this homebrew is to transform the Paladin class from a primary 
 
 #### Scalability Based on Charisma
 To ensure that the auras scale effectively with the Paladin's growth, modify the potency of the auras based on the Charisma modifier:
+The lvl part of the scalling can be either the sum or an improvment to the  auras 
 - **+1 Charisma:** Coin flip (1d2)
 - **+2 Charisma:** d4
 - **+3 Charisma:** d4 plus coin flip (1d2)
 - **+4 Charisma:** Advantage roll (2d6)
-- **+5 Charisma:** SumMaximum roll of 2d4 or simple 2d4
+- **+5 Charisma:** simple 2d4
 
 #### To Do
 - **Test Impact:** Evaluate how the scalability of the auras affects gameplay balance, especially in conjunction with the Paladin's level progression.
 - **Annotation:** Consider basic die scaling in function of Charisma for auras. This system will need continuous adjustment and feedback to ensure it enhances the Paladin's role without overpowering the class.
 
 #### Notes
-These changes aim to emphasize the Paladin's role as a leader and protector, making their auras a core aspect of their gameplay identity and strategy. Further adjustments may be required based on playtest results.
+These changes aim to emphasize the Paladin's role as a either leader and protector or a menacy to be feared,  making their auras a core aspect of their gameplay identity and strategy. Further adjustments may be required based on playtest results.
 
 ## Smite Changes
 
@@ -87,6 +88,17 @@ These changes aim to emphasize the Paladin's role as a leader and protector, mak
 
 #### Notes
 - Either you chose 1 or other route for smites; 
+
+
+### [Brainstorm] The Smite as Hex 
+- **Context:** One way to deal with the resource managing is to make the Smites work as Hex does; This way, you enable the slots to be used to other speels or upcast, but agains a single foe 
+- **Proposed Modification:**  You mark an target. It is now blocking your way to achieve the goal of your oath. It calls you to punish, allowing you to smite him at upscaled +1 over your current smite lvl costless.
+- **Proposed Modification:**  You can change the target after it dies
+- **Proposed Modification:**  It can happen only after the foe does something against your oath?
+- **To Do:**
+  - **Playtest:** test usage
+
+
 
 ## Further Development
 This document will continue to evolve as new ideas are tested and feedback is received. Future updates may include more detailed descriptions of new abilities, modifications to existing features, and comprehensive balancing notes.
