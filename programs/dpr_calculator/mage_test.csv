@@ -1,0 +1,3 @@
+Character,Attack Bonus,Enemy AC,Damage Dice,Bonus Damage,Critical Hit Chance,Critical Bonus Damage
+eldrichBlast,+7,15,1d10,+5,0.05,+10
+eldrichBlast,+7,15,1d10,+5,0.05,+10
