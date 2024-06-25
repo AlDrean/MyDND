@@ -1,12 +1,12 @@
-Character,Attack Bonus,Enemy AC,Damage Dice,Bonus Damage,Critical Hit Chance,Critical Bonus Damage
-DamagePaladinSmite,+8,18,1d8+2d8,+5,0.05,+10
-DamagePaladinSmite,+8,18,1d8+2d8,+5,0.05,+10
-DamagePaladin,+8,18,1d8,+5,0.05,+10
-DamagePaladin,+8,18,1d8,+5,0.05,+10
-RuhRoll_homebrew,+10,18,1d8 + 2d6,+3,0.05,+10
-RuhRoll_homebrewSmite,+10,18,1d8 + 2d6 + 2d8,+3,0.05,+10
-homebrewAvenger,+8,18,1d8 + 2d6,+5,0.05,+10
-homebrewAvengerSmite,+8,18,1d8 + 2d6 + 5d8,+5,0.05,+10
-Ladino,+8,18,1d4+3d6,+5,0.05,+10
-eldrichBlast,+8,18,1d10,+5,0.05,+10
-eldrichBlast,+8,18,1d10,+5,0.05,+10
+Character,Attack Bonus,Enemy AC,Damage Dice,Bonus Damage,Critical Hit Chance,Critical Bonus Damage,Advantage
+DamagePaladinSmite,+8,18,1d8+2d8,+5,0.05,+10,False
+DamagePaladinSmite,+8,18,1d8+2d8,+5,0.05,+10,False
+DamagePaladin,+8,18,1d8,+5,0.05,+10,False
+DamagePaladin,+8,18,1d8,+5,0.05,+10,False
+RuhRoll_homebrew,+10,18,1d8 + 2d6,+3,0.05,+10,False
+RuhRoll_homebrewSmite,+10,18,1d8 + 2d6 + 2d8,+3,0.05,+10,False
+homebrewAvenger,+8,18,1d8 + 2d6,+5,0.05,+10,False
+homebrewAvengerSmite,+8,18,1d8 + 2d6 + 5d8,+5,0.05,+10,False
+Ladino,+8,18,1d4+3d6,+5,0.05,+10,False
+eldrichBlast,+8,18,1d10,+5,0.05,+10,False
+eldrichBlast,+8,18,1d10,+5,0.05,+10,False

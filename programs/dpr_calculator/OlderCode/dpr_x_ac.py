@@ -57,7 +57,7 @@ def plot_dpr_curves(results, output_path='dpr_vs_ac_plot.png'):
         ax.plot(ac_values, dpr_values, label=character)
     ax.set_xlabel('Enemy AC')
     ax.set_ylabel('Damage Per Round (DPR)')
-    ax.set_title('DPR vs. Enemy AC for Each Character  [a -> advantage][Ladino][SS -> sharpshooter][modificador]')
+    ax.set_title('DPR vs. Enemy AC for Each Character')
     ax.legend()
     plt.savefig(output_path)
     plt.close(fig)

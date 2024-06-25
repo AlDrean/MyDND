@@ -1,3 +1,3 @@
 Character,Attack Bonus,Enemy AC,Damage Dice,Bonus Damage,Critical Hit Chance,Critical Bonus Damage,Advantage
-eldrichBlast,+7,15,1d10,+5,0.05,+10,False
-eldrichBlast,+7,15,1d10,+5,0.05,+10,False
+LadinoSS,+3,12,1d4+3d6+10+5,+5,0.05,1d4+3d6,True
+Ladino,+8,12,1d4+3d6+5,+5,0.05,1d4+3d6,True
