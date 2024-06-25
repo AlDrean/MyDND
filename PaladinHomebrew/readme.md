@@ -1,4 +1,5 @@
 # Paladin Homebrew Concept
+No ranged
 
 ## Introduction
 The objective of this homebrew is to transform the Paladin class from a primary damage dealer into a control-oriented tank. This version of the Paladin aims to serve as a beacon of hope and morale on the battlefield, inspiring allies through steadfast faith and strategic control rather than sheer offensive power.
