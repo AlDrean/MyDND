@@ -88,5 +88,13 @@ These changes aim to emphasize the Paladin's role as a leader and protector, mak
 #### Notes
 - Either you chose 1 or other route for smites; 
 
+
+### Divine buff?
+- **Context:** Divine smite should be used as a breakthrought tool and as such it use should be more important. To the build with charisma, it should have addictional effects, with a moderate baseline power 
+- **Proposed Modification:**  Aura gain an active component, scaling with charisma specific from the oath
+- **To Do:**
+  - **Playtest:** test
+
+
 ## Further Development
 This document will continue to evolve as new ideas are tested and feedback is received. Future updates may include more detailed descriptions of new abilities, modifications to existing features, and comprehensive balancing notes.
