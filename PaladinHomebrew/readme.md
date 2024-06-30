@@ -32,10 +32,11 @@ The objective of this homebrew is to transform the Paladin class from a primary 
 - **To Do:** playtest
   - **Talk with more paladins players** It sounds like a good change, but it also takes away the 'ITS AN AMAZING MOMENT TO CRITICAL SMITE AT LVL 5'
 
-### Class feature: Protect formation (UA)
-- **Context:** As for now, the Paladin should have"Hold The line" oriented playstile. As for now, it only goes headfirst to smite and delete a foe. This will be aimed to change it to allow to muster the Sentinel feat;
-- **Description:** As a bonus action, enter a defensive stance that lasts until the start of your next turn. While in this stance, make opportunity attacks without using your reaction
-- **Proposed Modification:** Consider adding effects like bonus AC or disadvantage on attacks against allies when you are ready to defend. 
+## Class feature: Action Option 
+- **Context:** As for now, the Paladin should have"Hold The line" oriented playstile. As for now, it only goes headfirst to smite and delete a foe. This will be aimed to change it to allow to muster the Sentinel and polear master feat;
+- **Description:** you can Use your action for one of 3 effects: normal atack, smite atack, or enter the Defensive stance. 
+- **Proposed Modification:** You can multitack on you atack action. Atack with smites will enable you to use the designed smite( your oaths, or the paladin smite at you highest speel level at no cost) and will use only the CHAR modifier. The defense stance will be listed bellow
+- **Defense Instanse:** Can only be taken when using a shield(?) The allies on the shield side will gain cover up to 1,5m. At the weapon side, enemies that get in range, move or atack will open thenselves to an oportunity atack by using a reaction. They movment of the creature hit will be set to 0 
 - **To Do:**
   - **Test Impact:** Evaluate how adding AC or imposing disadvantage affects gameplay balance, especially in conjunction with abilities like Sentinel. 
   - **Test Impact:** Evaluate giving this the sentinel aspects of the hit so the sentinel is not a must pick feat
