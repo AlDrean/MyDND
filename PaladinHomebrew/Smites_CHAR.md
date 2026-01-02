@@ -8,14 +8,17 @@
 
 ### Two-Tier Smite System
 
-At **5th level**, Charisma-focused Paladins replace **Extra Attack** with a unique smite system:
+At **5th level**, Charisma-focused Paladins **do not receive Extra Attack**. Instead, they gain a unique smite system:
 
-1. **Base Smite (Cantrip-Level)**: Always available when you make a melee weapon attack
+> **Important:** You make **one attack per turn** when you take the Attack action. This single attack always includes a smite effect. You do not gain the Extra Attack feature.
+
+1. **Base Smite (Cantrip-Level)**: Always available when you make your melee weapon attack
    - **Oath-Specific:** Each Paladin Oath grants access to their signature smite as a cantrip
    - No spell slot required
    - Weaker, guaranteed 1-turn effect
    - No concentration required
    - Your oath's signature smite is always available; other smites can be learned as spells
+   - **Every Attack Action:** When you take the Attack action, you make one attack with a smite (you cannot make a normal attack without a smite)
 
 2. **Upcast Smite (Spell Slot)**: Enhance your base smite with a bonus action
    - Requires a bonus action + spell slot
@@ -24,10 +27,11 @@ At **5th level**, Charisma-focused Paladins replace **Extra Attack** with a uniq
    - Can be dropped anytime (uses movement + bonus action upkeep)
 
 **Mechanics:**
-- **Attack Action:** Make one melee weapon attack with a base smite effect (choose type)
+- **Attack Action:** Make **one** melee weapon attack with a base smite effect (choose type). You cannot make multiple attacks.
 - **Bonus Action (Optional):** Upcast the smite using a spell slot to gain the full concentration version
 - **Concentration:** Only required when upcast; base effect is instantaneous/1 turn
 - **+Charisma to Attack:** You add your Charisma modifier to the attack roll when using a smite
+- **No Extra Attack:** You do not gain the Extra Attack feature at 5th level or any other level
 
 ---
 
@@ -73,11 +77,11 @@ Each Paladin Oath grants access to a specific smite cantrip that reflects their 
 > **Thematic Connection:** The flames of retribution burn those who have committed great wrongs. This smite represents the Paladin's burning desire for justice and the purifying fire that consumes evil.
 
 #### Base Effect (Cantrip-Level)
-*Always available when making a melee weapon attack (Oath of Vengeance)*
+*Always applied to your single attack when you take the Attack action (Oath of Vengeance)*
 
-When you hit a creature with a melee weapon attack, your weapon flares with white-hot intensity. The attack deals an extra **1d4 fire damage** to the target. The target ignites in flames and takes **1d4 fire damage** at the start of its next turn. This effect ends after the target takes this damage.
+When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon flares with white-hot intensity. The attack deals an extra **1d4 fire damage** to the target. The target ignites in flames and takes **1d4 fire damage** at the start of its next turn. This effect ends after the target takes this damage.
 
-**No spell slot required. No concentration required.**
+**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
 
 #### Upcast Effect (1st-level or higher)
 *Requires: Bonus action + spell slot of 1st level or higher*
@@ -105,11 +109,11 @@ When you upcast this smite, the next time you hit a creature with a melee weapon
 > **Thematic Connection:** The raw power of nature manifests as thunder and storms. This smite channels the primal forces of the natural world, pushing back those who would harm the balance.
 
 #### Base Effect (Cantrip-Level)
-*Always available when making a melee weapon attack (Oath of the Ancients)*
+*Always applied to your single attack when you take the Attack action (Oath of the Ancients)*
 
-When you hit a creature with a melee weapon attack, your weapon rings with thunder. The attack deals an extra **1d6 thunder damage** to the target. Additionally, if the target is a creature, it must succeed on a **Strength saving throw** or be **pushed 5 feet away** from you and be **knocked prone** until the end of its next turn.
+When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon rings with thunder. The attack deals an extra **1d6 thunder damage** to the target. Additionally, if the target is a creature, it must succeed on a **Strength saving throw** or be **pushed 5 feet away** from you and be **knocked prone** until the end of its next turn.
 
-**No spell slot required. No concentration required.**
+**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
 
 #### Upcast Effect (1st-level or higher)
 *Requires: Bonus action + spell slot of 1st level or higher*
@@ -137,11 +141,11 @@ When you upcast this smite, the first time you hit with a melee weapon attack du
 > **Thematic Connection:** Fear is the weapon of conquest. This smite instills terror in the hearts of enemies, breaking their will and demonstrating the Paladin's absolute dominance over the battlefield.
 
 #### Base Effect (Cantrip-Level)
-*Always available when making a melee weapon attack (Oath of Conquest)*
+*Always applied to your single attack when you take the Attack action (Oath of Conquest)*
 
-When you hit a creature with a melee weapon attack, your attack deals an extra **1d4 psychic damage**. Additionally, if the target is a creature, it must make a **Wisdom saving throw** or be **frightened of you** until the end of its next turn.
+When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your attack deals an extra **1d4 psychic damage**. Additionally, if the target is a creature, it must make a **Wisdom saving throw** or be **frightened of you** until the end of its next turn.
 
-**No spell slot required. No concentration required.**
+**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
 
 #### Upcast Effect (1st-level or higher)
 *Requires: Bonus action + spell slot of 1st level or higher*
@@ -169,11 +173,11 @@ When you upcast this smite, the next time you hit with a melee weapon attack dur
 > **Thematic Connection:** Vigilance against extraplanar threats requires the ability to see through deception. This smite reveals hidden enemies and marks them for all to see, embodying the Watcher's eternal vigilance.
 
 #### Base Effect (Cantrip-Level)
-*Always available when making a weapon attack (Oath of the Watchers)*
+*Always applied to your single attack when you take the Attack action (Oath of the Watchers)*
 
-When you hit a creature with a weapon attack, the weapon gleams with astral radiance as you strike. The attack deals an extra **1d6 radiant damage** to the target. If the target is invisible, it becomes **visible** until the end of its next turn. The target **sheds dim light in a 5-foot radius** until the end of its next turn.
+When you take the Attack action, you make one weapon attack. When you hit a creature with this attack, the weapon gleams with astral radiance as you strike. The attack deals an extra **1d6 radiant damage** to the target. If the target is invisible, it becomes **visible** until the end of its next turn. The target **sheds dim light in a 5-foot radius** until the end of its next turn.
 
-**No spell slot required. No concentration required.**
+**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
 
 #### Upcast Effect (2nd-level or higher)
 *Requires: Bonus action + spell slot of 2nd level or higher*
@@ -200,11 +204,11 @@ When you upcast this smite, the next time you hit a creature with a weapon attac
 > **Thematic Connection:** The pure light of devotion reveals truth and blinds those who would hide in darkness. This smite represents the Paladin's unwavering commitment to goodness and the divine radiance that accompanies true faith.
 
 #### Base Effect (Cantrip-Level)
-*Always available when making a melee weapon attack (Oath of Devotion)*
+*Always applied to your single attack when you take the Attack action (Oath of Devotion)*
 
-When you hit a creature with a melee weapon attack, your weapon flares with a bright light. The attack deals an extra **2d6 radiant damage** to the target. Additionally, the target must succeed on a **Constitution saving throw** or be **blinded** until the end of its next turn.
+When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon flares with a bright light. The attack deals an extra **2d6 radiant damage** to the target. Additionally, the target must succeed on a **Constitution saving throw** or be **blinded** until the end of its next turn.
 
-**No spell slot required. No concentration required.**
+**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
 
 #### Upcast Effect (3rd-level or higher)
 *Requires: Bonus action + spell slot of 3rd level or higher*
@@ -230,11 +234,11 @@ When you upcast this smite, the next time you hit a creature with a melee weapon
 > **Thematic Connection:** Order and stability are maintained through control. This smite weakens enemies and disrupts their ability to act, allowing the Paladin to protect the realm and maintain the established order.
 
 #### Base Effect (Cantrip-Level)
-*Always available when making a melee weapon attack (Oath of the Crown)*
+*Always applied to your single attack when you take the Attack action (Oath of the Crown)*
 
-When you hit a creature with a melee weapon attack, your weapon pierces both body and mind. The attack deals an extra **2d6 psychic damage** to the target. The target must make a **Wisdom saving throw**. On a failed save, it has **disadvantage on attack rolls and ability checks**, and **can't take reactions**, until the end of its next turn.
+When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon pierces both body and mind. The attack deals an extra **2d6 psychic damage** to the target. The target must make a **Wisdom saving throw**. On a failed save, it has **disadvantage on attack rolls and ability checks**, and **can't take reactions**, until the end of its next turn.
 
-**No spell slot required. No concentration required.**
+**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
 
 #### Upcast Effect (4th-level or higher)
 *Requires: Bonus action + spell slot of 4th level or higher*
@@ -259,11 +263,11 @@ When you upcast this smite, the next time you hit a creature with a melee weapon
 > **Thematic Connection:** Sometimes the best way to save someone is to remove them from harm. This smite banishes threats without killing them, giving both the enemy and the Paladin a chance to find a better path forward.
 
 #### Base Effect (Cantrip-Level)
-*Always available when making a weapon attack (Oath of Redemption)*
+*Always applied to your single attack when you take the Attack action (Oath of Redemption)*
 
-When you hit a creature with a weapon attack, your weapon crackles with force. The attack deals an extra **3d8 force damage** to the target. Additionally, if this attack reduces the target to **30 hit points or fewer**, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It reappears at the end of your next turn in the space it left or in the nearest unoccupied space if that space is occupied.
+When you take the Attack action, you make one weapon attack. When you hit a creature with this attack, your weapon crackles with force. The attack deals an extra **3d8 force damage** to the target. Additionally, if this attack reduces the target to **30 hit points or fewer**, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It reappears at the end of your next turn in the space it left or in the nearest unoccupied space if that space is occupied.
 
-**No spell slot required. No concentration required. Banishment lasts until end of your next turn.**
+**No spell slot required. No concentration required. Banishment lasts until end of your next turn. You cannot make an attack without applying a smite effect.**
 
 #### Upcast Effect (5th-level or higher)
 *Requires: Bonus action + spell slot of 5th level or higher*
@@ -287,19 +291,21 @@ When you upcast this smite, the next time you hit a creature with a weapon attac
 ### Example Turn Sequence
 
 **Turn 1 - Basic Attack:**
-- **Action:** Attack with Searing Smite (base effect)
+- **Action:** Attack action (one attack) with Searing Smite (base effect)
   - Hit deals weapon damage + 1d4 fire damage
   - Target takes 1d4 fire at start of next turn
   - No spell slot used, no concentration
+  - Note: You only make one attack (no Extra Attack)
 
 **Turn 2 - Enhanced Attack:**
-- **Action:** Attack with Thunderous Smite (base effect)
+- **Action:** Attack action (one attack) with Thunderous Smite (base effect)
   - Hit deals weapon damage + 1d6 thunder damage
   - Target pushed 5 ft and prone (save negates)
 - **Bonus Action:** Upcast Thunderous Smite with 2nd-level slot
   - Now have concentration version active
   - Next hit will push 15 ft, affect nearby creatures
   - Uses movement + bonus action each turn to maintain
+  - Note: You only make one attack per turn (no Extra Attack)
 
 **Turn 3 - Switch Tactics:**
 - **Action:** Attack with Wrathful Smite (base effect)
@@ -332,9 +338,11 @@ When you upcast this smite, the next time you hit a creature with a weapon attac
 - Better synergy with Charisma-based features and auras
 
 ### Integration with Level 5 Feature
-- **Replaces Extra Attack:** At level 5, CHAR Paladins make one attack with a smite instead of two attacks
+- **No Extra Attack:** CHAR Paladins do NOT receive the Extra Attack feature at 5th level
+- **Single Attack with Smite:** When you take the Attack action, you make **one attack** that always includes a smite effect
+- **Cannot Make Normal Attacks:** You cannot make a weapon attack without applying a smite effect
 - **Oath Signature Smite:** Your oath's signature smite is always available as a cantrip-level ability
-- **Base Smite Always Available:** Every melee weapon attack can apply your oath's base smite effect (no cost)
+- **Base Smite Always Available:** Your single attack per turn always applies your oath's base smite effect (no cost)
 - **+Charisma to Attack:** You add your Charisma modifier to the attack roll when using a smite
 - **Optional Upcast:** Use bonus action + spell slot to enhance your oath's smite (or any learned smite) to full concentration version
 - **Additional Concentration Slot:** One extra concentration slot specifically for smite upkeep
