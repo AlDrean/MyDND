@@ -44,12 +44,18 @@ The objective of this homebrew is to transform the Paladin class from a primary 
 - **Description:** Introduce "Aura of Protection" at level 1 to signify the Paladin's inspiring presence through sheer willpower, providing immediate and scaling benefits to nearby allies.
 
 #### Proposed Modifications
-- **Early Oath Auras:** will be dealt in another topic
+- **Early Oath Auras:** See [Early Game Auras Documentation](early_auras_main.md) for detailed brainstorming and implementation ideas
 - **Early Access to Auras:** Introduce a level 1 aura that provides benefits based on the Paladin's Charisma modifier.
   - **Temporary Health Aura:** Grant temporary health equal to 1d2 plus Charisma modifier (minimum of 3) to allies within the aura.
   - **Damage Reduction Aura:** Provide a damage reduction of 1d2, which increases to 1d4 if the Paladin's Charisma modifier is 3 or more.
   - **Bonus to Tests:** Offer a 1d2 bonus to attack rolls or skill checks within the aura, a lesser blessing
   - **SavingThrows:** Offer a 1d2 bonus to attack rolls or skill checks within the aura, a lesser blessing
+
+#### Related Documents
+- **[Early Auras Main Document](early_auras_main.md)** - Design philosophy, scaling system, and implementation options
+- **[Early Auras Basic Concepts](early_auras_basic_concepts.md)** - The 12 foundational aura concepts with test improvements
+- **[Early Auras Creative Effects](early_auras_creative_effects.md)** - World-interactive effects that go beyond simple bonuses
+- **[Early Auras Deity Mapping](early_auras_deity_mapping.md)** - Complete mapping of D&D deities to auras across all pantheons
 
 #### Scalability Based on Charisma
 To ensure that the auras scale effectively with the Paladin's growth, modify the potency of the auras based on the Charisma modifier:
