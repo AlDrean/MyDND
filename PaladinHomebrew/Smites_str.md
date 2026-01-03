@@ -53,17 +53,17 @@ Each Paladin Oath grants access to a specific smite cantrip that reflects their 
 
 ---
 
-## Quick Reference Table
+## Quick Reference Table ( at lvl 5)
 
 | Spell | Oath | Base Damage | Base Effect (1 Turn) | Upcast Level | Upcast Focus |
 |-------|------|-------------|----------------------|--------------|--------------|
 | **Searing Smite** | Vengeance | 1d12 fire | Target takes 1 fire/turn for 2 turns | 1st+ | +1d6 fire damage per level |
-| **Thunderous Smite** | Ancients | 1d12 thunder | Push 10 ft, prone (save negates) | 1st+ | +1d8 thunder damage per level |
+| **Thunderous Smite** | Ancients | 1d12 thunder | Push 3 ft, prone (save negates) | 1st+ | +1d8 thunder damage per level |
 | **Wrathful Smite** | Conquest | 1d6 psychic | Frightened until end of target's next turn | 1st+ | +1d6 psychic damage per level |
 | **Branding Smite** | Watchers | 1d8 radiant | Reveal invisible, dim light 5 ft | 2nd+ | +1d8 radiant damage per level |
 | **Blinding Smite** | Devotion | 2d8 radiant | Blinded until end of target's next turn | 3rd+ | +1d8 radiant damage per level |
-| **Staggering Smite** | Crown | 2d8 psychic | Disadvantage on attacks, no reactions (1 turn) | 4th+ | +1d8 psychic damage per level |
-| **Banishing Smite** | Redemption | 4d6 force | Banish if 50 HP or fewer | 5th+ | +1d6 force damage per level |
+| **Staggering Smite** | Crown | 2d8 psychic | Disadvantage on attacks(1 turn) | 4th+ | +1d8 psychic damage per level |
+| **Banishing Smite** | Redemption | 4d6 force | Banish if 15 HP or fewer | 5th+ | +1d6 force damage per level |
 
 ---
 
@@ -81,7 +81,7 @@ Each Paladin Oath grants access to a specific smite cantrip that reflects their 
 
 When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon flares with white-hot intensity. The attack deals an extra **1d6 fire damage** to the target. The target ignites in flames and takes **1 fire damage** at the start of its next two turns. This effect ends after the target takes the second instance of damage.
 
-**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
+**No spell slot required. No concentration required.**
 
 #### Upcast Effect (1st-level or higher)
 *Requires: Bonus action + spell slot of 1st level or higher*
@@ -113,7 +113,7 @@ When you upcast this smite, the next time you hit a creature with a melee weapon
 
 When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon rings with thunder. The attack deals an extra **1d8 thunder damage** to the target. Additionally, if the target is a creature, it must succeed on a **Strength saving throw** or be **pushed 10 feet away** from you and be **knocked prone** until the end of its next turn.
 
-**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
+**No spell slot required. No concentration required.**
 
 #### Upcast Effect (1st-level or higher)
 *Requires: Bonus action + spell slot of 1st level or higher*
@@ -145,7 +145,7 @@ When you upcast this smite, the first time you hit with a melee weapon attack du
 
 When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your attack deals an extra **1d6 psychic damage**. Additionally, if the target is a creature, it must make a **Wisdom saving throw** or be **frightened of you** until the end of its next turn.
 
-**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
+**No spell slot required. No concentration required.**
 
 #### Upcast Effect (1st-level or higher)
 *Requires: Bonus action + spell slot of 1st level or higher*
@@ -177,7 +177,7 @@ When you upcast this smite, the next time you hit with a melee weapon attack dur
 
 When you take the Attack action, you make one weapon attack. When you hit a creature with this attack, the weapon gleams with astral radiance as you strike. The attack deals an extra **1d8 radiant damage** to the target. If the target is invisible, it becomes **visible** until the end of its next turn. The target **sheds dim light in a 5-foot radius** until the end of its next turn.
 
-**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
+**No spell slot required. No concentration required.**
 
 #### Upcast Effect (2nd-level or higher)
 *Requires: Bonus action + spell slot of 2nd level or higher*
@@ -208,7 +208,7 @@ When you upcast this smite, the next time you hit a creature with a weapon attac
 
 When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon flares with a bright light. The attack deals an extra **2d8 radiant damage** to the target. Additionally, the target must succeed on a **Constitution saving throw** or be **blinded** until the end of its next turn.
 
-**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
+**No spell slot required. No concentration required.**
 
 #### Upcast Effect (3rd-level or higher)
 *Requires: Bonus action + spell slot of 3rd level or higher*
@@ -238,7 +238,7 @@ When you upcast this smite, the next time you hit a creature with a melee weapon
 
 When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon pierces both body and mind. The attack deals an extra **2d8 psychic damage** to the target. The target must make a **Wisdom saving throw**. On a failed save, it has **disadvantage on attack rolls and ability checks**, and **can't take reactions**, until the end of its next turn.
 
-**No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
+**No spell slot required. No concentration required.**
 
 #### Upcast Effect (4th-level or higher)
 *Requires: Bonus action + spell slot of 4th level or higher*
@@ -267,7 +267,7 @@ When you upcast this smite, the next time you hit a creature with a melee weapon
 
 When you take the Attack action, you make one weapon attack. When you hit a creature with this attack, your weapon crackles with force. The attack deals an extra **4d6 force damage** to the target. Additionally, if this attack reduces the target to **50 hit points or fewer**, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It reappears at the end of your next turn in the space it left or in the nearest unoccupied space if that space is occupied.
 
-**No spell slot required. No concentration required. Banishment lasts until end of your next turn. You cannot make an attack without applying a smite effect.**
+**No spell slot required. No concentration required. Banishment lasts until end of your next turn.**
 
 #### Upcast Effect (5th-level or higher)
 *Requires: Bonus action + spell slot of 5th level or higher*
