@@ -131,7 +131,7 @@ When you upcast this smite, the first time you hit with a melee weapon attack du
 - **2nd Level:** The push distance increases to 15 feet, and all creatures within 5 feet of the target must make a Strength saving throw or be pushed 5 feet away and knocked prone.
 - **3rd Level:** The thunderous sound deafens all creatures (except you) within 10 feet of the target for 1 minute. Deafened creatures have disadvantage on Wisdom (Perception) checks and can't make opportunity attacks based on hearing.
 - **4th Level:** You can choose to push the target up to 20 feet in any direction (not just away from you). Additionally, the target and all creatures within 10 feet are deafened until the end of your next turn.
-- **5th Level:** The thunder creates a 15-foot radius shockwave. All creatures in the area (except you) must make a Strength saving throw or be pushed 10 feet away from the target and knocked prone. The target is pushed 20 feet.
+- **5th Level:** The thunder creates a 15-foot radius shockwave. All creatures in the area that you choose (except you) must make a Strength saving throw or be pushed 10 feet away from the target and knocked prone. The target is pushed 20 feet.
 
 ---
 
@@ -192,7 +192,7 @@ When you upcast this smite, the next time you hit a creature with a weapon attac
 **Control Aspect:** Counters invisibility, reveals hidden enemies, and provides tactical information to allies.
 
 **At Higher Levels (Utility-Focused):**
-- **3rd Level:** The light reveals all invisible creatures within 15 feet of the target. Additionally, the target and all invisible creatures in range shed bright light in a 10-foot radius.
+- **3rd Level:** The branding reveals all invisible creatures within 15 feet of the target. Additionally, the target and all invisible creatures in range shed bright light in a 10-foot radius.
 - **4th Level:** The branding reveals the target's true form (if shapechanged), shows illusions for what they are, and reveals all hidden or invisible creatures within 30 feet. The light becomes bright light in a 15-foot radius.
 - **5th Level:** The branding creates a 30-foot radius area of bright light centered on the target. All invisible creatures in this area become visible, all illusions are revealed, and shapechanged creatures show their true form. This effect lasts for the spell's duration.
 
