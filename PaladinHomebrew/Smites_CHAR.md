@@ -57,14 +57,15 @@ Each Paladin Oath grants access to a specific smite cantrip that reflects their 
 
 | Spell | Oath | Base Damage | Base Effect (1 Turn) | Upcast Level | Upcast Focus |
 |-------|------|-------------|----------------------|--------------|--------------|
-| **Searing Smite** | Vengeance | 1d4 fire | Target takes 1d4 fire at start of next turn | 1st+ | Area expansion, duration |
+| **Searing Smite** | Vengeance | 1d4 fire | Target takes 2d6 fire at start of next turn | 1st+ | Area expansion, duration |
 | **Thunderous Smite** | Ancients | 1d6 thunder | Push 5 ft, prone (save negates) | 1st+ | Area effect, multiple targets |
 | **Wrathful Smite** | Conquest | 1d4 psychic | Frightened until end of target's next turn | 1st+ | Area effect, duration |
-| **Branding Smite** | Watchers | 1d6 radiant | Reveal invisible, dim light 5 ft | 2nd+ | Area reveal, duration |
-| **Blinding Smite** | Devotion | 2d6 radiant | Blinded until end of target's next turn | 3rd+ | Area effect, duration |
-| **Staggering Smite** | Crown | 2d6 psychic | Disadvantage on attacks, no reactions (1 turn) | 4th+ | Multiple targets, duration |
-| **Banishing Smite** | Redemption | 3d8 force | Banish if 30 HP or fewer | 5th+ | Lower threshold, area effect |
+| **Branding Smite** | Watchers | 2d6 radiant | Reveal invisible, dim light 5 ft | 2nd+ | Area reveal, duration |
+| **Blinding Smite** | Devotion | 1d6 radiant | Blinded until end of target's next turn | 3rd+ | Area effect, duration |
+| **Staggering Smite** | Crown | 1d6 psychic | Disadvantage on attacks, no reactions (1 turn) | 4th+ | Multiple targets, duration |
+| **Banishing Smite** | Redemption | 1d8 force | Banish if 30 HP or fewer | 5th+ | Lower threshold, area effect |
 
+[check] the smite cantropy gives a +2 to hit
 ---
 
 ## Spell Descriptions
@@ -79,7 +80,7 @@ Each Paladin Oath grants access to a specific smite cantrip that reflects their 
 #### Base Effect (Cantrip-Level)
 *Always applied to your single attack when you take the Attack action (Oath of Vengeance)*
 
-When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon flares with white-hot intensity. The attack deals an extra **1d4 fire damage** to the target. The target ignites in flames and takes **1d4 fire damage** at the start of its next turn. This effect ends after the target takes this damage.
+When you take the Attack action, you make one melee weapon attack. When you hit a creature with this attack, your weapon flares with white-hot intensity. The attack deals an extra **1d4 fire damage** to the target. The target ignites in flames and takes **2d6 fire damage** at the start of its next turn. This effect ends after the target takes this damage.
 
 **No spell slot required. No concentration required. You cannot make an attack without applying a smite effect.**
 
@@ -91,7 +92,7 @@ When you take the Attack action, you make one melee weapon attack. When you hit 
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-When you upcast this smite, the next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity. The attack deals an extra **1d6 fire damage** to the target and causes the target to ignite in flames, causing **2d4 fire damage** at the start of each of its turns until the spell ends or the flames are extinguished.
+When you upcast this smite, the next time you hit a creature with a melee weapon attack during the spell's duration, your weapon flares with white-hot intensity. The attack deals an extra **1d4 fire damage** to the target and causes the target to ignite in flames, causing **2d6 fire damage** at the start of each of its turns until the spell ends or the flames are extinguished.
 
 **Control Aspect:** Creates area denial and ongoing pressure, forcing enemies to either take damage or use actions to extinguish flames.
 

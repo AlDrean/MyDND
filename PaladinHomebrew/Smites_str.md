@@ -57,8 +57,8 @@ Each Paladin Oath grants access to a specific smite cantrip that reflects their 
 
 | Spell | Oath | Base Damage | Base Effect (1 Turn) | Upcast Level | Upcast Focus |
 |-------|------|-------------|----------------------|--------------|--------------|
-| **Searing Smite** | Vengeance | 1d6 fire | Target takes 1 fire/turn for 2 turns | 1st+ | +1d6 fire damage per level |
-| **Thunderous Smite** | Ancients | 1d8 thunder | Push 10 ft, prone (save negates) | 1st+ | +1d8 thunder damage per level |
+| **Searing Smite** | Vengeance | 1d12 fire | Target takes 1 fire/turn for 2 turns | 1st+ | +1d6 fire damage per level |
+| **Thunderous Smite** | Ancients | 1d12 thunder | Push 10 ft, prone (save negates) | 1st+ | +1d8 thunder damage per level |
 | **Wrathful Smite** | Conquest | 1d6 psychic | Frightened until end of target's next turn | 1st+ | +1d6 psychic damage per level |
 | **Branding Smite** | Watchers | 1d8 radiant | Reveal invisible, dim light 5 ft | 2nd+ | +1d8 radiant damage per level |
 | **Blinding Smite** | Devotion | 2d8 radiant | Blinded until end of target's next turn | 3rd+ | +1d8 radiant damage per level |
